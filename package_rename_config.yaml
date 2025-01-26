@@ -1,0 +1,16 @@
+package_rename_config:
+  android:
+    app_name: "Hair Pool Provider" # (String) The display name of the android app
+    package_name: com.sixamtech.demandium.provider #com.sixamtech.everything.user # (String) The package name of the android app
+    override_old_package: com.sixamtech.demandium.provider # (Optional) (String) Use this to delete the old folder structure of MainActivity or to use the existing code with the new package name
+    lang: # (Optional) (String) The android development language {kotlin(default) or java}
+
+  ios:
+    app_name: "Hair Pool Provider" # (String) The display name of the ios app
+    bundle_name: "Hair Pool Provider" # (String) The bundle name of the ios app
+    package_name: com.sixamtech.demandium.providerapp # (String) The product bundle identifier of the ios app
+
+  web:
+    app_name: "Hair Pool Provider" # (String) The title of the web app and PWA
+    short_app_name: "Hair Pool Provider" # (String) The short display name of the PWA (Optional, defaults to app_name if not set)
+    description: "Hair Pool Provider" # (String) The description of the web app and PWA
