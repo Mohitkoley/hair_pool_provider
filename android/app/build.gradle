@@ -32,7 +32,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.sixamtech.demandium.provider"
+    namespace = "com.hairpool.partner"
     compileSdk = flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
@@ -51,7 +51,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.sixamtech.demandium.provider"
+        applicationId = "com.hairpool.partner"
         minSdkVersion 23
         targetSdk = flutter.targetSdkVersion
         versionCode flutterVersionCode.toInteger()
