@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:889759666168:android:e0fa950568fe69a784d00d",
         "android_client_info": {
-          "package_name": "com.sixamtech.demandium.provider"
+          "package_name": "com.hairpool.partner"
         }
       },
       "oauth_client": [
@@ -38,7 +38,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:889759666168:android:f49fc09445e6d8f884d00d",
         "android_client_info": {
-          "package_name": "com.sixamtech.demandium.serviceman"
+          "package_name": "com.hairpool.partner"
         }
       },
       "oauth_client": [
@@ -46,7 +46,7 @@
           "client_id": "889759666168-9i0vrlirap6gf07qt97ehtqvbgfbj610.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sixamtech.demandium.serviceman",
+            "package_name": "com.hairpool.partner",
             "certificate_hash": "023e5c497b4c0c7a24f6b6ffe6a5bd3446972e0b"
           }
         },
@@ -54,7 +54,7 @@
           "client_id": "889759666168-boqhe65httk8srrh15sjvdbdjodfk4kd.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.sixamtech.demandium.serviceman",
+            "package_name": "com.hairpool.partner",
             "certificate_hash": "b4829782b927617b414d8fbad589f5b461a71531"
           }
         },
@@ -83,7 +83,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:889759666168:android:64e5375b02e6121d84d00d",
         "android_client_info": {
-          "package_name": "com.sixamtech.demandium.user"
+          "package_name": "com.hairpool.user"
         }
       },
       "oauth_client": [

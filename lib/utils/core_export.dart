@@ -377,7 +377,7 @@ export 'package:get/get_connect/http/src/request/request.dart';
 export 'package:google_maps_flutter/google_maps_flutter.dart';
 export 'package:image_picker/image_picker.dart';
 export 'package:just_the_tooltip/just_the_tooltip.dart';
-export 'package:open_file_plus/open_file_plus.dart';
+export 'package:open_file/open_file.dart';
 export 'package:path_provider/path_provider.dart';
 export 'package:permission_handler/permission_handler.dart';
 export 'package:phone_numbers_parser/phone_numbers_parser.dart';
